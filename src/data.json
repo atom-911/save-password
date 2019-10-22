@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "type": "Facebook",
+        "account" : "atomm911",
+        "password": "1qaz!QAZ",
+        "phone" : "0867.686.237"
+    },
+    {
+        "id": 2,
+        "type": "Gmail",
+        "account" : "thangku777",
+        "password": "1qaz!QAZ",
+        "phone" : "0867.686.237"
+    },
+    {
+        "id": 3,
+        "type": "Hotmail",
+        "account" : "atom.911",
+        "password": "1qaz!QAZ",
+        "phone" : "0867.686.237"
+    },
+    {
+        "id": 4,
+        "type": "Github",
+        "account" : "atom-911",
+        "password": "1qaz!QAZ",
+        "phone" : "0867.686.237"
+    }
+]
