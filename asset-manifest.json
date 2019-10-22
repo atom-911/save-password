@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/save-password/static/css/main.9f639a70.chunk.css",
+    "main.js": "/save-password/static/js/main.8d5389df.chunk.js",
+    "main.js.map": "/save-password/static/js/main.8d5389df.chunk.js.map",
+    "runtime~main.js": "/save-password/static/js/runtime~main.cc33b4f7.js",
+    "runtime~main.js.map": "/save-password/static/js/runtime~main.cc33b4f7.js.map",
+    "static/js/2.cc0b5a87.chunk.js": "/save-password/static/js/2.cc0b5a87.chunk.js",
+    "static/js/2.cc0b5a87.chunk.js.map": "/save-password/static/js/2.cc0b5a87.chunk.js.map",
+    "index.html": "/save-password/index.html",
+    "precache-manifest.04823e9793bec81d0b79b68adc6975c2.js": "/save-password/precache-manifest.04823e9793bec81d0b79b68adc6975c2.js",
+    "service-worker.js": "/save-password/service-worker.js",
+    "static/css/main.9f639a70.chunk.css.map": "/save-password/static/css/main.9f639a70.chunk.css.map"
+  }
+}
